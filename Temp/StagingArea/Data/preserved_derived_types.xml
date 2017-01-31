@@ -1,0 +1,12 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="ClickEffect" preserve="all"/>
+<type fullname="Enemy" preserve="all"/>
+<type fullname="GameManager" preserve="all"/>
+<type fullname="Particle" preserve="all"/>
+<type fullname="TitleManager" preserve="all"/>
+</assembly>
+<assembly fullname="UnityEngine.Analytics">
+<type fullname="UnityEngine.Analytics.AnalyticsTracker" preserve="all"/>
+</assembly>
+</linker>
